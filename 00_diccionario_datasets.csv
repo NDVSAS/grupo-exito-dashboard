@@ -1,7 +1,0 @@
-﻿archivo,uso_en_plotly,granularidad,graficas_sugeridas
-01_ventas_mensuales_canal_categoria_region.csv,"Ventas por canal, región y categoría; ranking y participación",Mes-Canal-Categoría-Región,"Barras, líneas, treemap, mapa de calor"
-02_inventarios_region_formato_categoria.csv,"Disponibilidad, quiebres, rotación y días de inventario",Mes-Región-Formato-Categoría,"Mapa de calor, barras, tabla condicional"
-03_conversion_digital_funnel.csv,Embudo digital y conversión por canal,Mes-Canal,"Funnel, líneas, barras comparativas"
-04_clientes_segmentos_clv_nps.csv,"Segmentos, CLV, ticket, retención y NPS",Mes-Segmento,"Dispersión CLV vs frecuencia, barras, tarjetas KPI"
-05_logistica_entregas_region_canal.csv,"Entregas a tiempo, tiempos y costo logístico",Mes-Región-Canal,"Líneas, barras, mapa geográfico"
-06_kpis_dashboard_mensual.csv,Resumen de KPIs para tablero ejecutivo,Mes,"Tarjetas KPI, líneas, velocímetros"
